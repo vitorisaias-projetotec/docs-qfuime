@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-dana1s.assetshst.online/sitemap.xml
